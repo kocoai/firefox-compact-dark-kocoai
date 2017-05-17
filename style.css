@@ -10,6 +10,7 @@
 tab[selected="true"] .tab-content {
    background-color: rgb(40,43,53) !important;
    border-top-color: white !important;
+   color: white !important;
 }
 
 tab .tab-content {
